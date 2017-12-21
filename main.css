@@ -1,0 +1,750 @@
+/* Texts */
+
+/*home*/
+
+#start {
+	color: #990099;
+	font-size: 40px;
+}
+#finish {
+	color: #e60000;
+	font-size: 40px;
+}
+#batman {
+	color: white;
+	font-size: 24px;
+	font-family: 'Quattrocento', serif;
+	text-indent: 60px;
+}
+.thor {
+	font-size: 44px;
+	color: red;
+}
+.hulk {
+	font-size: 24px;
+	color: white;
+}
+#superman {
+	color: white;
+	font-family: 'Bungee', cursive;
+}
+
+/*nes*/
+
+#start2 {
+	color: #ff0000;
+	font-size: 40px;
+}
+
+#finish2 {
+	color: black;
+	font-size: 40px;
+}
+.aquaman {
+	color: black;
+	font-size: 24px;
+	text-indent: 15px;
+	font-family: 'Quattrocento', serif;
+}
+.spiderman {
+	font-size: 44px;
+	color: red;
+}
+.antman {
+	font-size: 24px;
+	color: black;
+}
+#superman2 {
+	color: black;
+	font-family: 'Bungee', cursive;
+}
+
+/*snes*/
+
+#start3 {
+	color: #e600e6;
+	font-size: 40px;
+}
+
+#finish3 {
+	color: black;
+	font-size: 40px;
+}
+.storm {
+	font-size: 44px;
+	color: #e600e6;
+}
+.wonderwoman {
+	font-size: 24px;
+	color: black;
+}
+#superman3 {
+	color: black;
+	font-family: 'Bungee', cursive;
+}
+
+/*n64*/
+
+#start4 {
+	color: #006622;
+	font-size: 40px;
+}
+
+#finish4 {
+	color: black;
+	font-size: 40px;
+}
+.ironman {
+	font-size: 44px;
+	color: #006622;
+}
+.hawkeye {
+	font-size: 24px;
+	color: black;
+}
+#superman4 {
+	color: black;
+	font-family: 'Bungee', cursive;
+}
+
+/*gamecube*/
+
+#start5 {
+	color: #600080;
+	font-size: 40px;
+}
+#finish5 {
+	color: black;
+	font-size: 40px;
+}
+.greenlatern {
+	color: #600080;
+	font-size: 40px;
+}
+.flash {
+	font-size: 24px;
+	color: black;
+}
+#superman5 {
+	color: black;
+	font-family: 'Bungee', cursive;
+}
+
+/*wii*/
+
+#start6 {
+	color: #1a75ff;
+	font-size: 40px;
+}
+
+#finish6 {
+	color: black;
+	font-size: 40px;
+}
+.supergirl {
+	color: #1a75ff;
+	font-size: 40px;
+}
+.batgirl {
+	font-size: 24px;
+	color: black;
+}
+#superman6 {
+	color: black;
+	font-family: 'Bungee', cursive;
+}
+
+/*wiiu*/
+
+#start7 {
+	color: black;
+	font-size: 40px;
+}
+
+#finish7 {
+	color: #0000b3;
+	font-size: 40px;
+}
+.deadpool {
+	color: #0000b3;
+	font-size: 40px;
+}
+.arrow {
+	font-size: 24px;
+	color: black;
+}
+#superman7 {
+	color: black;
+	font-family: 'Bungee', cursive;
+}
+
+/*switch*/
+
+#start8 {
+	color: #ff1a1a;
+	font-size: 40px;
+}
+
+#finish8 {
+	color: black;
+	font-size: 40px;
+}
+.captainamerica {
+	color: #ff1a1a;
+	font-size: 40px;
+}
+.robin {
+	font-size: 24px;
+	color: black;
+}
+#superman8 {
+	color: black;
+	font-family: 'Bungee', cursive;
+}
+
+/*reference*/
+#start9 {
+	color: white;
+	font-size: 40px;
+}
+
+#finish9 {
+	color: white;
+	font-size: 40px;
+}
+.aquaman2 {
+	color: white;
+	font-size: 24px;
+	text-indent: 15px;
+	font-family: 'Quattrocento', serif;
+}
+
+/*  DIVS */
+
+/*home*/
+
+#cucumber {
+	border: solid white 3px;
+	padding: 10px;
+	margin-top: 40px;
+	margin-left: 350px;
+	margin-right: 350px;
+	margin-bottom: 20px;
+	text-align: center;
+	padding: 25px;
+	background-color: rgb(51, 51, 51, 0.8);
+	border-radius: 10px;
+}
+#orange {
+    width: 500px;
+    margin-left: 350px;
+    margin-bottom: 40px;
+    background-color: rgb(51, 51, 51, 0.8);
+    padding: 10px;
+    border: solid 3px white;
+    border-radius: 10px;
+    float: left;
+}
+#orange2 {
+    width: 600px;
+    margin-right: 350px;
+    margin-bottom: 50px;
+    background-color: rgb(51, 51, 51, 0.8);
+    padding: 10px;
+    border: solid 3px white;
+    border-radius: 10px;
+    float: right;
+    text-align: center;
+}
+#banana {
+    border: solid 3px white;
+	float: left;
+	margin-top: 0px;
+	margin-left: 440px;
+	padding: 10px;
+	background-color: rgb(51, 51, 51, 0.8);
+	border-radius: 10px;
+}
+/*nes*/
+
+#cucumber2 {
+	border: solid #cc0000 3px;
+	padding: 10px;
+	margin-top: 40px;
+	margin-left: 350px;
+	margin-right: 350px;
+	margin-bottom: 20px;
+	text-align: center;
+	padding: 25px;
+	background-color: rgb(217, 217, 217, 0.8);
+	border-radius: 10px;
+}
+#tomato {
+    width: 500px;
+    margin-left: 350px;
+    margin-bottom: 40px;
+    background-color: rgb(217, 217, 217, 0.8);
+    padding: 10px;
+    border: solid 3px #cc0000;
+    border-radius: 10px;
+    float: left;
+}
+#tomato2 {
+    width: 600px;
+    margin-right: 350px;
+    margin-bottom: 50px;
+    background-color: rgb(217, 217, 217, 0.8);
+    padding: 10px;
+    border: solid 3px #cc0000;
+    border-radius: 10px;
+    float: right;
+    text-align: center;
+}
+#carrot {
+    border: solid 3px #cc0000;
+	float: left;
+	margin-top: 0px;
+	margin-left: 440px;
+	padding: 10px;
+	background-color: rgb(217, 217, 217, 0.8);
+	border-radius: 10px;
+}
+
+/*snes*/
+
+#cucumber3 {
+	border: solid #e600e6 3px;
+	padding: 10px;
+	margin-top: 40px;
+	margin-left: 350px;
+	margin-right: 350px;
+	margin-bottom: 20px;
+	text-align: center;
+	padding: 25px;
+	background-color: rgb(217, 217, 217, 0.8);
+	border-radius: 10px;
+}
+#lemon {
+    width: 500px;
+    margin-left: 350px;
+    margin-bottom: 40px;
+    background-color: rgb(217, 217, 217, 0.8);
+    padding: 10px;
+    border: solid 3px #e600e6;
+    border-radius: 10px;
+    float: left;
+}
+#lemon2 {
+    width: 600px;
+    margin-right: 350px;
+    margin-bottom: 50px;
+    background-color: rgb(217, 217, 217, 0.8);
+    padding: 10px;
+    border: solid 3px #e600e6;
+    border-radius: 10px;
+    float: right;
+    text-align: center;
+}
+#watermelon {
+    border: solid 3px #e600e6;
+	float: left;
+	margin-top: 0px;
+	margin-left: 440px;
+	padding: 10px;
+	background-color: rgb(217, 217, 217, 0.8);
+	border-radius: 10px;	
+}
+
+/*n64*/
+
+#cucumber4 {
+	border: solid #006622 3px;
+	padding: 10px;
+	margin-top: 40px;
+	margin-left: 350px;
+	margin-right: 350px;
+	margin-bottom: 20px;
+	text-align: center;
+	padding: 25px;
+	background-color: rgb(217, 217, 217, 0.8);
+	border-radius: 10px;
+}
+#grapefruit {
+    width: 500px;
+    margin-left: 350px;
+    margin-bottom: 40px;
+    background-color: rgb(217, 217, 217, 0.8);
+    padding: 10px;
+    border: solid 3px #006622;
+    border-radius: 10px;
+    float: left;
+}
+#grapefruit2 {
+	width: 600px;
+    margin-right: 350px;
+    margin-bottom: 50px;
+    background-color: rgb(217, 217, 217, 0.8);
+    padding: 10px;
+    border: solid 3px #006622;
+    border-radius: 10px;
+    float: right;
+    text-align: center;
+}
+#cantaloupe {
+    border: solid 3px #006622;
+	float: left;
+	margin-top: 0px;
+	margin-left: 440px;
+	padding: 10px;
+	background-color: rgb(217, 217, 217, 0.8);
+	border-radius: 10px;
+	margin-bottom: 20px;
+}
+
+/*gamecube*/
+
+#cucumber5 {
+	border: solid #600080 3px;
+	padding: 10px;
+	margin-top: 40px;
+	margin-left: 350px;
+	margin-right: 350px;
+	margin-bottom: 20px;
+	text-align: center;
+	padding: 25px;
+	background-color: rgb(217, 217, 217, 0.8);
+	border-radius: 10px;
+}
+#kiwi {
+    width: 500px;
+    margin-left: 350px;
+    margin-bottom: 40px;
+    background-color: rgb(217, 217, 217, 0.8);
+    padding: 10px;
+    border: solid 3px #600080;
+    border-radius: 10px;
+    float: left;
+}
+#kiwi2 {
+	width: 600px;
+    margin-right: 350px;
+    margin-bottom: 50px;
+    background-color: rgb(217, 217, 217, 0.8);
+    padding: 10px;
+    border: solid 3px #600080;
+    border-radius: 10px;
+    float: right;
+    text-align: center;
+}	
+#mango {
+    border: solid 3px #600080;
+	float: left;
+	margin-top: 0px;
+	margin-left: 440px;
+	padding: 10px;
+	background-color: rgb(217, 217, 217, 0.8);
+	border-radius: 10px;
+}
+
+/*wii*/
+
+#cucumber6 {
+	border: solid #1a75ff 3px;
+	padding: 10px;
+	margin-top: 40px;
+	margin-left: 350px;
+	margin-right: 350px;
+	margin-bottom: 20px;
+	text-align: center;
+	padding: 25px;
+	background-color: rgb(217, 217, 217, 0.8);
+	border-radius: 10px;
+}
+#grape {
+    width: 500px;
+    margin-left: 350px;
+    margin-bottom: 40px;
+    background-color: rgb(217, 217, 217, 0.8);
+    padding: 10px;
+    border: solid 3px #1a75ff;
+    border-radius: 10px;
+    float: left;
+}
+#grape2 {
+	width: 600px;
+    margin-right: 350px;
+    margin-bottom: 50px;
+    background-color: rgb(217, 217, 217, 0.8);
+    padding: 10px;
+    border: solid 3px #1a75ff;
+    border-radius: 10px;
+    float: right;
+    text-align: center;	
+}
+#pumpkin {
+    border: solid 3px #1a75ff;
+	float: left;
+	margin-top: 0px;
+	margin-left: 440px;
+	padding: 10px;
+	background-color: rgb(217, 217, 217, 0.8);
+	border-radius: 10px;
+}
+
+
+/*wiiu*/
+
+#cucumber7 {
+	border: solid #0000b3 3px;
+	padding: 10px;
+	margin-top: 40px;
+	margin-left: 350px;
+	margin-right: 350px;
+	margin-bottom: 20px;
+	text-align: center;
+	padding: 25px;
+	background-color: rgb(217, 217, 217, 0.8);
+	border-radius: 10px;
+}
+#lime {
+    width: 500px;
+    margin-left: 350px;
+    margin-bottom: 40px;
+    background-color: rgb(217, 217, 217, 0.8);
+    padding: 10px;
+    border: solid 3px #0000b3;
+    border-radius: 10px;
+    float: left;
+}
+#lime2 {
+	width: 600px;
+    margin-right: 350px;
+    margin-bottom: 50px;
+    background-color: rgb(217, 217, 217, 0.8);
+    padding: 10px;
+    border: solid 3px #0000b3;
+    border-radius: 10px;
+    float: right;
+    text-align: center;	
+}
+#apple {
+    border: solid 3px #0000b3;
+	float: left;
+	margin-top: 0px;
+	margin-left: 440px;
+	padding: 10px;
+	background-color: rgb(217, 217, 217, 0.8);
+	border-radius: 10px;
+}
+
+
+/*switch*/
+
+#cucumber8 {
+	border: solid  #660000 3px; 
+	padding: 10px;
+	margin-top: 40px;
+	margin-left: 350px;
+	margin-right: 350px;
+	margin-bottom: 20px;
+	text-align: center;
+	padding: 25px;
+	background-color: rgb(217, 217, 217, 0.8);
+	border-radius: 10px;
+}
+#tangerine {
+    width: 500px;
+    margin-left: 350px;
+    margin-bottom: 40px;
+    background-color: rgb(217, 217, 217, 0.8);
+    padding: 10px;
+    border: solid 3px #660000;
+    border-radius: 10px;
+    float: left;
+}
+#tangerine2 {
+	width: 600px;
+    margin-right: 350px;
+    margin-bottom: 50px;
+    background-color: rgb(217, 217, 217, 0.8);
+    padding: 10px;
+    border: solid 3px #660000;
+    border-radius: 10px;
+    float: right;
+    text-align: center;	
+}
+#strawberry {
+    border: solid 3px #660000;
+	float: left;
+	margin-top: 0px;
+	margin-left: 440px;
+	padding: 10px;
+	background-color: rgb(217, 217, 217, 0.8);
+	border-radius: 10px;
+}
+
+
+/*reference*/
+
+#cucumber9 {
+	border: solid  #660000 3px; 
+	padding: 10px;
+	margin-top: 40px;
+	margin-left: 350px;
+	margin-right: 350px;
+	margin-bottom: 20px;
+	text-align: center;
+	padding: 25px;
+	background-color: rgb(38, 38, 38, 0.8);
+	border-radius: 10px;
+}
+#ref {
+    width: 500px;
+    margin-left: 350px;
+    margin-bottom: 40px;
+    background-color: rgb(38, 38, 38, 0.8);
+    padding: 10px;
+    border: solid 3px #660000;
+    border-radius: 10px;
+    float: left;
+    text-align: center;
+    margin-top: 100px;
+}
+#ref2 {
+    width: 500px;
+    margin-right: 350px;
+    margin-bottom: 40px;
+    background-color: rgb(38, 38, 38, 0.8);
+    padding: 10px;
+    border: solid 3px #660000;
+    border-radius: 10px;
+    float: left;
+    text-align: center;
+    margin-top: 100px;
+}
+
+/* Nav Bar */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+    border-right: 1px solid #bbb;
+    border-top: 1px solid #bbb;
+    border-left: 1px solid #bbb;
+    border-bottom: 1px solid #bbb;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: black;
+}
+li:last-child {
+    border-right: none;
+}
+#home {
+	background-color: #800000;
+	color: white;
+}
+#nes {
+	background-color: #808080;
+	color: white;
+}
+#snes {
+	background-color: #b300b3;
+	color: white;
+}
+#n64 {
+	background-color: #262626;
+	color: #248f24;
+}
+#gamecube {
+	background-color: #600080;
+	color: white;
+}
+#wii {
+	background-color: white;
+	color: #1a75ff;
+}
+#wiiu {
+	background-color: #000000;
+	color: #1a75ff;
+}
+#switch {
+	background-color: #ff1a1a;
+	color: white;
+}
+#reference {
+	background-color: black;
+	color: white;
+}
+
+/* Background Images */
+
+#one {
+	background: url("images/colors.jpg")fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#two {
+	background: url("images/nes.png")fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#three {
+	background: url("images/snes.jpg")fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#four {
+	background: url("images/N64.png")fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#five {
+	background: url("images/gamecube.jpg")fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#six {
+	background: url("images/wii.jpg")fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#seven {
+	background: url("images/wiiu.png")fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#eight {
+	background: url("images/switch.png")fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#nine {
+	background: url("images/NintendoTimeline.jpg")fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}

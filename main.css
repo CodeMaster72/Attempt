@@ -218,6 +218,10 @@
 	text-indent: 15px;
 	font-family: 'Quattrocento', serif;
 }
+#superman9 {
+	color: white;
+	font-family: 'Bungee', cursive;
+}
 
 /*  DIVS */
 
@@ -607,20 +611,28 @@
     border: solid 3px #660000;
     border-radius: 10px;
     float: left;
-    text-align: center;
-    margin-top: 100px;
-}
+ }
 #ref2 {
     width: 500px;
+    margin-left: 130px;
     margin-right: 350px;
-    margin-bottom: 40px;
     background-color: rgb(38, 38, 38, 0.8);
     padding: 10px;
     border: solid 3px #660000;
     border-radius: 10px;
     float: left;
     text-align: center;
-    margin-top: 100px;
+}
+#apple77 {
+    border: solid 3px #660000;
+	float: left;
+	margin-top: 0px;
+	margin-left: 440px;
+	padding: 10px;
+	background-color: rgb(38, 38, 38, 0.8);
+	border-radius: 10px;
+	margin-bottom: 150px;
+	
 }
 
 /* Nav Bar */

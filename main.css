@@ -707,7 +707,7 @@ li:last-child {
 /* Background Images */
 
 #one {
-	background: url("images/colors.jpg")fixed;
+	background: url("images/COLORS.jpg")fixed;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
